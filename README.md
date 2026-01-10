@@ -62,10 +62,3 @@ to support data-driven decisions related to hiring, retention, performance, and 
 
 ## 👤 Author
 **Prashant Kumar Rathod**
-
----
-
-## 🚀 Future Enhancements
-- Rebuild the dashboard in **Power BI**
-- Add **SQL-based data extraction**
-- Include **geographical analysis using map visualizations**
