@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](employee_analytics_dashboard.png)
 
 # Employee Analytics Dashboard
 
